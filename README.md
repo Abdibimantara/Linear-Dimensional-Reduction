@@ -1,6 +1,7 @@
 # Linear-Dimensional-Reduction
+![1_WhKA9Jboj_1sHa0MbWQQ7w](https://user-images.githubusercontent.com/43168046/128638322-90f72c39-e11c-47ce-ab3b-be4a7fe9497b.png)
 
-*thanks for the dataset that has been provided* 
+### thanks for the dataset that has been provided 
 - link dataset : https://github.com/mburakergenc/Malware-Detection-using-Machine-Learning 
 - library PCA : https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
 - library FA : https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FactorAnalysis.html
