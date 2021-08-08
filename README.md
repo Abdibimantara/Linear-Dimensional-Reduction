@@ -7,8 +7,11 @@
 - library TSVD : https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html
 
 ========================================================================================
+<br />
+<br />
+<br />
+## the results of this study
 
-the results of this study
 ![Dimensional Reduction using PCA](https://user-images.githubusercontent.com/43168046/128637896-7cc4001e-248d-4680-a06f-5b846c63d71d.png)
 
 ========================================================================================
